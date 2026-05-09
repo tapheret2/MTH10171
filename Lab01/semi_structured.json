@@ -1,0 +1,97 @@
+{
+    "students": [
+      {
+        "student_id": "S101",
+        "name": "Alice Johnson",
+        "age": 20,
+        "GPA": 3.8,
+        "contact": {
+          "email": "alice@example.com",
+          "phone": "123-456-7890"
+        },
+        "subjects": [
+          {"name": "Math", "score": 85},
+          {"name": "Physics", "score": 90}
+        ]
+      },
+      {
+        "student_id": "S102",
+        "name": "Bob Smith",
+        "age": 21,
+        "GPA": 3.5,
+        "contact": {
+          "email": "bob@example.com"
+        },
+        "subjects": [
+          {"name": "Math", "score": 78},
+          {"name": "Chemistry", "score": 82},
+          {"name": "English", "score": 88}
+        ]
+      },
+      {
+        "student_id": "S103",
+        "name": "Charlie Brown",
+        "age": 19,
+        "GPA": 3.9,
+        "subjects": [
+          {"name": "Computer Science", "score": 92},
+          {"name": "Math", "score": 88}
+        ]
+      },
+      {
+        "student_id": "S104",
+        "name": "David Williams",
+        "age": 22,
+        "GPA": 3.6,
+        "contact": {
+          "email": "david@example.com",
+          "phone": "987-654-3210"
+        },
+        "subjects": [
+          {"name": "Biology", "score": 80},
+          {"name": "Physics", "score": 85},
+          {"name": "Math", "score": 82}
+        ]
+      },
+      {
+        "student_id": "S105",
+        "name": "Emma Davis",
+        "age": 20,
+        "GPA": 3.7,
+        "contact": {
+          "email": "emma@example.com"
+        },
+        "subjects": [
+          {"name": "History", "score": 88},
+          {"name": "English", "score": 90}
+        ]
+      },
+      {
+        "student_id": "S106",
+        "name": "Frank Miller",
+        "age": 23,
+        "GPA": 3.4,
+        "subjects": [
+          {"name": "Economics", "score": 76},
+          {"name": "Statistics", "score": 80},
+          {"name": "Math", "score": 79}
+        ]
+      },
+      {
+        "student_id": "S107",
+        "name": "Grace Wilson",
+        "age": 19,
+        "GPA": 3.9,
+        "contact": {
+          "email": "grace@example.com",
+          "phone": "456-789-0123"
+        },
+        "subjects": [
+          {"name": "Computer Science", "score": 94},
+          {"name": "Math", "score": 90},
+          {"name": "Physics", "score": 91}
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,183 @@
+Id,Full Name,Age,Major,Gpa_10_Scale
+1,Angela Cobb,21.0,Cybersecurity,8.02
+2,Shawn Castillo Jr.,19.0,Data Science,9.21
+3,Luis Parker,18.0,Computer Science,9.53
+8,Amy Price,21.0,Applied Mathematics,8.44
+11,Elizabeth Phelps,19.0,Applied Mathematics,8.68
+13,Joyce Nelson,21.0,Software Engineering,8.82
+14,Kathleen Brown,19.0,Artificial Intelligence,8.24
+15,Hailey Gutierrez,21.0,Computer Science,8.37
+17,Michele Brooks,18.0,Computer Science,8.1
+20,Manuel Santiago,22.0,Cybersecurity,9.48
+23,Patricia Parker,25.0,Information Systems,8.3
+25,Jessica Sanchez,24.0,Information Systems,8.27
+29,Kelsey Scott,20.0,Applied Mathematics,8.49
+30,Phyllis Williams,19.0,Cybersecurity,8.1
+31,Brandon Garcia,20.0,Cybersecurity,8.15
+34,Taylor Navarro,22.0,Cybersecurity,9.02
+36,Dustin Hughes,21.0,Data Science,8.6
+37,Sylvia Hall Md,19.0,Computer Science,9.8
+40,Nicholas Smith,18.0,Cybersecurity,8.21
+43,Danielle Hunter,18.0,Software Engineering,9.17
+48,Christian Brewer,21.0,Software Engineering,8.15
+53,Paul Owens,20.0,Artificial Intelligence,9.49
+55,Andrew Williams,22.0,Artificial Intelligence,8.67
+56,Victoria Watson,23.0,Information Systems,9.86
+66,John Evans,21.0,Computer Science,8.1
+67,Morgan Daniels,20.0,Data Science,8.87
+69,Eric Martinez,24.0,Computer Science,8.12
+71,Paul Lucero,23.0,Information Systems,8.93
+81,Ashley Johnson,25.0,Artificial Intelligence,9.43
+84,Renee Hill,20.0,Artificial Intelligence,8.22
+86,Joy Castillo,18.0,Applied Mathematics,8.58
+88,Debra Foley,18.0,Software Engineering,8.21
+92,William Ortiz,19.0,Applied Mathematics,8.9
+93,Elizabeth Bates,24.0,Software Engineering,8.39
+95,Aaron Richardson,21.0,Cybersecurity,9.79
+96,Zachary Rodriguez,19.0,Computer Science,8.63
+102,Debra Bryant,25.0,Data Science,9.52
+106,Todd Smith,24.0,Computer Science,9.53
+108,Katherine Smith,22.0,Applied Mathematics,8.45
+109,Juan Stephens,22.0,Applied Mathematics,8.48
+113,Jennifer Wilson,18.0,Cybersecurity,9.31
+115,Alice Jordan,19.0,Artificial Intelligence,9.57
+116,Elizabeth Warren,23.0,Applied Mathematics,8.91
+118,Crystal Gutierrez,20.0,Information Systems,9.48
+119,Christopher Wilcox,20.0,Data Science,8.98
+120,William Hall,24.0,Information Systems,9.68
+122,Logan Byrd,23.0,Software Engineering,9.13
+131,Elizabeth Moore,,Information Systems,9.41
+135,Scott Casey,24.0,Data Science,8.01
+136,Tina Gordon,23.0,Information Systems,9.63
+137,Mr. Derek Morgan,22.0,Applied Mathematics,9.55
+138,Bethany Young,23.0,Software Engineering,9.07
+143,Kendra Kim,24.0,Cybersecurity,9.74
+146,Derrick Diaz,20.0,Computer Science,9.99
+150,Stephen Ramirez,,Data Science,9.75
+151,Tamara Wallace,22.0,Computer Science,9.43
+154,Holly Martin,24.0,Information Systems,8.54
+158,Lucas Montgomery,21.0,Information Systems,8.89
+166,Lynn Williams,25.0,Information Systems,9.93
+168,Dawn Torres,24.0,Artificial Intelligence,8.18
+170,Mathew Collins,18.0,Software Engineering,9.9
+171,Andrew Miles,20.0,Information Systems,9.58
+174,Darryl Freeman,25.0,Information Systems,8.5
+177,Kevin Peters,21.0,Data Science,9.97
+178,Melissa Smith,20.0,Computer Science,9.27
+181,Thomas Nichols,22.0,Information Systems,9.96
+182,Tara Green,19.0,Information Systems,8.21
+190,Stephanie Stevens,24.0,Artificial Intelligence,8.67
+193,Stephen Patterson,20.0,Software Engineering,9.09
+194,Sergio Ryan,23.0,Information Systems,8.65
+196,Julie Odom Md,25.0,Computer Science,9.59
+198,Wendy Molina,20.0,Information Systems,9.17
+200,William Terry,20.0,Applied Mathematics,8.47
+203,Debra Cannon,18.0,Artificial Intelligence,9.62
+207,Nicholas Sloan,24.0,Software Engineering,8.03
+209,Patricia Stone,24.0,Cybersecurity,8.61
+212,William Jenkins,24.0,Information Systems,9.4
+213,Zachary Velez,20.0,Computer Science,9.54
+214,Joseph Johnson,21.0,Data Science,9.48
+215,Jimmy Tapia,25.0,Software Engineering,9.78
+222,Timothy Ray,18.0,Computer Science,9.65
+223,Tasha Cooper,22.0,Artificial Intelligence,8.61
+225,Carla Martinez Dds,20.0,Data Science,8.22
+228,Tiffany Hendrix,20.0,Data Science,9.49
+231,Isabel White,24.0,Artificial Intelligence,9.08
+232,Dr. Heather Lindsey,25.0,Data Science,9.42
+233,Dana Pham,18.0,Information Systems,8.37
+236,Cassandra Smith,20.0,Computer Science,9.61
+239,Erika Myers,25.0,Data Science,9.84
+240,Sara Lane,18.0,Artificial Intelligence,9.49
+246,Jordan Brown,21.0,Computer Science,9.58
+248,Victoria Simmons,21.0,Data Science,9.9
+251,Lauren Mcknight,22.0,Cybersecurity,9.97
+253,Hannah Dean Dds,22.0,Applied Mathematics,9.52
+254,George Lopez,25.0,Cybersecurity,8.94
+255,Jean Sexton,23.0,Artificial Intelligence,9.28
+256,John Booth,21.0,Cybersecurity,9.32
+259,Kenneth Lloyd,21.0,Data Science,8.85
+262,Jeffrey Brown,23.0,Software Engineering,9.17
+263,John Griffin,25.0,Data Science,8.25
+268,Peter Jimenez,22.0,Software Engineering,8.58
+269,Justin Harris,18.0,Artificial Intelligence,9.6
+270,Brandon Page,23.0,Cybersecurity,8.63
+275,Angelica Snyder,22.0,Applied Mathematics,8.53
+278,Ms. Linda Adams,23.0,Data Science,9.12
+279,Taylor Shaw,23.0,Computer Science,9.63
+281,Melissa Rodriguez,23.0,Artificial Intelligence,8.92
+298,Brooke Perez,22.0,Data Science,8.98
+299,Deanna Foster,20.0,Applied Mathematics,8.91
+300,Michele Harrison,23.0,Software Engineering,8.67
+302,Timothy Hall,18.0,Artificial Intelligence,8.2
+307,Jacqueline Bell,24.0,Information Systems,8.6
+310,Joshua Houston,19.0,Data Science,9.57
+317,Sarah Vargas,22.0,Computer Science,8.07
+319,Jacqueline Hess,18.0,Data Science,8.62
+321,Tyler Cox,20.0,Cybersecurity,9.26
+325,Eric Carpenter,20.0,Information Systems,8.66
+329,Joanne Lewis,25.0,Artificial Intelligence,9.12
+332,William Lopez,21.0,Cybersecurity,8.05
+337,Sarah Hooper,20.0,Information Systems,9.29
+339,Melissa Mccarthy,24.0,Artificial Intelligence,9.07
+341,Brian Brown,20.0,Data Science,9.44
+342,Shannon Smith,18.0,Data Science,8.68
+347,William Salazar,21.0,Artificial Intelligence,8.63
+348,Matthew Robertson,24.0,Artificial Intelligence,9.04
+350,Matthew Rogers,21.0,Applied Mathematics,8.72
+354,Gregory Mcfarland,21.0,Computer Science,9.75
+358,Kelly Parsons,24.0,Data Science,8.73
+362,Jorge Patton,22.0,Applied Mathematics,8.94
+366,Michael Parker,23.0,Computer Science,8.44
+368,Rachel Wright,23.0,Artificial Intelligence,8.86
+369,Donna Brown,23.0,Computer Science,9.14
+373,David Spencer,18.0,Computer Science,8.15
+375,Cesar Roberts,25.0,Computer Science,8.84
+376,Martin Whitehead,21.0,Artificial Intelligence,8.52
+380,Gilbert Smith,21.0,Applied Mathematics,9.22
+382,Dr. Amy Gordon,22.0,Cybersecurity,9.62
+383,Jessica Wiley Dds,22.0,Data Science,9.21
+388,Melissa Phillips,21.0,Applied Mathematics,8.65
+390,Matthew Davis,25.0,Information Systems,9.91
+391,Brenda Watts,21.0,Information Systems,9.27
+395,Robert Benton,19.0,Applied Mathematics,9.8
+398,Holly Lopez,25.0,Information Systems,8.07
+399,Jason Gutierrez,19.0,Computer Science,8.06
+403,Jennifer Williams,24.0,Cybersecurity,8.49
+404,Dustin Nunez,20.0,Data Science,8.66
+406,Wendy Johnson,19.0,Applied Mathematics,8.65
+408,Mariah Davenport,18.0,Computer Science,9.65
+413,Charles Miller,19.0,Cybersecurity,9.72
+414,Anthony Bender,21.0,Software Engineering,8.95
+418,Christine Harper,25.0,Artificial Intelligence,9.78
+420,Elizabeth Hess,23.0,Applied Mathematics,8.15
+423,Carlos Williams,22.0,Applied Mathematics,8.49
+426,Nicholas Thompson Md,22.0,Cybersecurity,9.49
+427,Michael Steele,21.0,Information Systems,8.54
+429,Daniel Long,24.0,Information Systems,8.86
+434,Patrick Osborn,22.0,Software Engineering,9.13
+438,Jason Smith,22.0,Artificial Intelligence,9.06
+443,Rachel Douglas,25.0,Computer Science,8.57
+446,Joshua Moody,20.0,Information Systems,8.1
+448,Maria Cross,19.0,Information Systems,8.69
+449,Melvin Cruz,23.0,Artificial Intelligence,8.35
+450,Carol Mills,25.0,Cybersecurity,9.68
+451,Janet Rowe,22.0,Artificial Intelligence,8.29
+452,Mitchell Finley,22.0,Artificial Intelligence,8.08
+453,Christopher Greene,20.0,Artificial Intelligence,8.39
+455,Ronald Coleman,22.0,Cybersecurity,9.0
+463,Donald Peterson,23.0,Cybersecurity,9.18
+465,Charlene Anthony,24.0,Artificial Intelligence,9.95
+470,Ryan Ponce,23.0,Information Systems,9.55
+471,Jeffrey Jefferson,21.0,Applied Mathematics,8.44
+475,Benjamin Smith,18.0,Cybersecurity,9.55
+478,Stephen Jones,18.0,Artificial Intelligence,9.97
+481,Corey Howard,18.0,Data Science,9.28
+482,John Chambers,22.0,Data Science,8.16
+489,Miss Lindsey Evans Dds,21.0,Computer Science,9.8
+490,Brenda Medina,20.0,Artificial Intelligence,8.4
+491,John Baldwin,20.0,Data Science,9.19
+493,Andrea Jones,24.0,Cybersecurity,8.51
+495,Sarah Mendez,19.0,Software Engineering,8.99
+498,Dalton Walters,19.0,Data Science,8.57
+499,Bradley Carson,24.0,Applied Mathematics,9.73

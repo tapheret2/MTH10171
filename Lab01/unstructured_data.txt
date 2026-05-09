@@ -1,0 +1,20 @@
+Alice Johnson, 20 years old, GPA 3.8. Email: alice@example.com, Phone: 123-456-7890.
+Subjects: Math (85), Physics (90).
+
+Bob Smith, 21 years old, GPA 3.5. Email: bob@example.com.
+Subjects: Math (78), Chemistry (82), English (88).
+
+Charlie Brown, 19 years old, GPA 3.9.
+Subjects: Computer Science (92), Math (88).
+
+David Williams, 22 years old, GPA 3.6. Email: david@example.com, Phone: 987-654-3210.
+Subjects: Biology (80), Physics (85), Math (82).
+
+Emma Davis, 20 years old, GPA 3.7. Email: emma@example.com.
+Subjects: History (88), English (90).
+
+Frank Miller, 23 years old, GPA 3.4.
+Subjects: Economics (76), Statistics (80), Math (79).
+
+Grace Wilson, 19 years old, GPA 3.9. Email: grace@example.com, Phone: 456-789-0123.
+Subjects: Computer Science (94), Math (90), Physics (91).

@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python \"D:/Intro2DS/Lab03/create_lab3_hw1.py\")"
+    ]
+  }
+}
